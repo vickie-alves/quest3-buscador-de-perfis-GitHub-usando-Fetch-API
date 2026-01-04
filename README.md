@@ -25,7 +25,7 @@ Foi proposta a continuação do design apresentado em aula, organizando a visual
 
 | Buscador (Inicial) | Buscador (Resultado Perfil) | Buscador (Resultado Repositório)
 | :---: | :---: | :---: |
-| <img src="screenshots/screenshot-inicial.png" alt="Screenshot da página com o visual inicial" height="500"/> | <img src="screenshots/creenshot-perfil.png" alt="Screenshot da página com perfil do desenvolvedor" height="500"/> | <img src="screenshots/screenshot-repositorios.png" alt="Screenshot da página com os repositórios do desenvolvedor" height="500"/> |
+| <img src="screenshots/screenshot-inicial.png" alt="Screenshot da página com o visual inicial" height="500"/> | <img src="screenshots/screenshot-perfil.png" alt="Screenshot da página com perfil do desenvolvedor" height="500"/> | <img src="screenshots/screenshot-repositorios.png" alt="Screenshot da página com os repositórios do desenvolvedor" height="500"/> |
 | **Buscador (Destaque Repositório)** | **Buscador (Resultado Eventos)** | **Buscador (Não Encontrado)** |
 | <img src="screenshots/screenshot-destaque.png" alt="Screenshot da página com os botões de repositórios destacados" height="500"/> | <img src="screenshots/screenshot-eventos.png" alt="Screenshot da página com os eventos do perfil de desenvolvedor" height="500"/> | <img src="screenshots/screenshot-erro.png" alt="Screenshot da página com a falha na busca dos dados de perfil" height="500"/> |
 
